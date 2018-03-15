@@ -24,5 +24,6 @@ by [Alec Radford](https://www.linkedin.com/in/alecradford), [Luke Metz](http://l
 
 (Source: Paper)
 
+_Note: Apparently, the wide variety (high varience) of images in CIFAR10 cannot be handled by the DCGAN_
 ### Follow my Trello Board Here:
 https://trello.com/c/zQ1W5Amp/16-dcgan
