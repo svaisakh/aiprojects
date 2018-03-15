@@ -29,3 +29,6 @@ Make sure to run the [Fastener](Notebooks/Fastener.ipynb) notebook just before i
 _Note: The Model has sort of converged to an expected local minimum with the small dataset.
 Notice that it tries to paint open, upper regions of the image blue and lower regions green.
 The full dataset should give much better results._
+
+## Follow my Trello Board:
+https://trello.com/c/cO1fVLcu/27-colorful-image-colorization
