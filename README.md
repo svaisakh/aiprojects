@@ -2,6 +2,10 @@ This is a compilation of many projects that I did when I started learning Deep L
 
 Most of them are either outdated, broken or written in tensorflow - all of which are bad.
 
+Most of the files are Jupyter Notebooks organized into logical categories.
+
+Note that some projects failed and/or did not produce intended results.
+
 I intend to rework most of these into polished, stand alone, high quality repos.
 
 You can follow my progress on Trello:
