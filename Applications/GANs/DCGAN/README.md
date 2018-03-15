@@ -17,7 +17,7 @@ by [Alec Radford](https://www.linkedin.com/in/alecradford), [Luke Metz](http://l
 ![Interpolating Faces](Outputs/interpolation-celebA.jpg)
 
 ## Vector Arithmetic (a + b - c)
-![Arithmetic](Outputs/arithmetic.jpg)
+![Arithmetic](Outputs/arithmetic-celebA.jpg)
 
 ### Follow my Trello Board Here:
 https://trello.com/c/zQ1W5Amp/16-dcgan
