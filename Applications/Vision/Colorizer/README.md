@@ -15,7 +15,7 @@ Source: Paper
 ## Notebooks
 Notebooks are intended to be executed in the following order.
 
-1. [GrayRemover](Notebooks/ GrayRemover.ipynb)- Remove "greyscale" images as defined in the paper.
+1. [GrayRemover](Notebooks/GrayRemover.ipynb)- Remove "greyscale" images as defined in the paper.
 2. [GamutBins](Notebooks/GamutBins.ipynb) - Create bins for the ab color space in gamut (in the training set).
 ![Gamut Bins](Outputs/ab_gamut.jpg)
 3. [ClassRebalancer](Notebooks/ClassRebalancer.ipynb) - Find weights for each of the bins based on the probability of the color's appearance in the training set.
