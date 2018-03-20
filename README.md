@@ -13,6 +13,10 @@ I intend to rework most of these into polished, stand alone, high quality repos.
 4. [Exploration](Exploration) - Exploring deep learning concepts.
 5. [Kaggle](Kaggle) - Projects made for Kaggle competitions.
 
+_Note: If you get an import error, it's usually because of some functionality that I've written in a seperate module, [vaipy](https://github.com/svaisakh/_archived_vai).
+Since [vaipy](https://github.com/svaisakh/_archived_vai) has changed enormously since the start of these projects,
+you can search the archived version of the [repo](https://github.com/svaisakh/_archived_vai) for the desired functionality. Any pull-requests in this regard are always welcome._
+
 You can follow my progress on Trello:
 1. Under Review - (https://trello.com/b/mDzSrxam/ml-projectsreviewing)
 2. In the pipeline - (https://trello.com/b/ErqwjhoC/ml-projects)
