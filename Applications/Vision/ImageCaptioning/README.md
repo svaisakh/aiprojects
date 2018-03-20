@@ -1,7 +1,7 @@
 # Image Captioner
 
 Based on the Paper:
-[Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306)
+[Deep Visual-Semantic Alignments for Generating Image Descriptions](https://arxiv.org/abs/1412.2306) by
 [Andrej Karpathy](https://www.linkedin.com/in/andrej-karpathy-9a650716), [Li Fei-Fei](http://vision.stanford.edu/feifeili/)
 
 ![Samples](Outputs/out.png)
